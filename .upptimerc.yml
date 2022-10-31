@@ -90,7 +90,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /partner-monitoring
   logoUrl: https://inswitchpublic2.s3.amazonaws.com/inswitch_logo.png
-  favicon: https://inswitchpublic2.s3.amazonaws.com/inswitch_logo.png
+  favicon: https://inswitchpublic2.s3.amazonaws.com/Favicon_colors.png
   name: Inswhub Platform - Partners
   introTitle: "**Monitoring** Inswitch Partners."
   introMessage: POC - Project
