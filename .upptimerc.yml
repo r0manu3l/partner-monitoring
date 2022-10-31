@@ -15,16 +15,7 @@ sites:
       - 400
       - 401
   - name: Sistarbanc
-    url: $MOVII_URL
-    method: POST
-    headers:
-      - 'Authorization: "Basic dGVzdDp0ZXN0"'
-      - 'Content-Type: "application/x-www-form-urlencoded"'
-    body: 'grant_type: "client_credentials"'
-    expectedStatusCodes:
-      - 415
-      - 400
-      - 401
+    url: $SISTARBANC_URL
   - name: STP
     url: $MOVII_URL
     method: POST
