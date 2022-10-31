@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moviired",
     "status": "up",
-    "uptime": "4.38%",
-    "uptimeDay": "4.38%",
-    "uptimeWeek": "4.38%",
-    "uptimeMonth": "4.38%",
-    "uptimeYear": "4.38%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 258,
     "timeDay": 258,
     "timeWeek": 258,
     "timeMonth": 258,
     "timeYear": 258,
-    "dailyMinutesDown": {
-      "2022-10-31": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sistarbanc",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sistarbanc",
     "status": "up",
-    "uptime": "3.87%",
-    "uptimeDay": "3.87%",
-    "uptimeWeek": "3.87%",
-    "uptimeMonth": "3.87%",
-    "uptimeYear": "3.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 108,
     "timeDay": 108,
     "timeWeek": 108,
     "timeMonth": 108,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2022-10-31": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "STP",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stp",
     "status": "up",
-    "uptime": "3.35%",
-    "uptimeDay": "3.35%",
-    "uptimeWeek": "3.35%",
-    "uptimeMonth": "3.35%",
-    "uptimeYear": "3.35%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 64,
     "timeDay": 64,
     "timeWeek": 64,
     "timeMonth": 64,
     "timeYear": 64,
-    "dailyMinutesDown": {
-      "2022-10-31": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pagadito",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pagadito",
     "status": "up",
-    "uptime": "3.04%",
-    "uptimeDay": "3.04%",
-    "uptimeWeek": "3.04%",
-    "uptimeMonth": "3.04%",
-    "uptimeYear": "3.04%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 52,
     "timeDay": 52,
     "timeWeek": 52,
     "timeMonth": 52,
     "timeYear": 52,
-    "dailyMinutesDown": {
-      "2022-10-31": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kashio",
@@ -85,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kashio",
     "status": "up",
-    "uptime": "2.12%",
-    "uptimeDay": "2.12%",
-    "uptimeWeek": "2.12%",
-    "uptimeMonth": "2.12%",
-    "uptimeYear": "2.12%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 65,
     "timeDay": 65,
     "timeWeek": 65,
     "timeMonth": 65,
     "timeYear": 65,
-    "dailyMinutesDown": {
-      "2022-10-31": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pago TIC",
@@ -105,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pago-tic",
     "status": "up",
-    "uptime": "1.80%",
-    "uptimeDay": "1.80%",
-    "uptimeWeek": "1.80%",
-    "uptimeMonth": "1.80%",
-    "uptimeYear": "1.80%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 58,
     "timeDay": 58,
     "timeWeek": 58,
     "timeMonth": 58,
     "timeYear": 58,
-    "dailyMinutesDown": {
-      "2022-10-31": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Local Payment",
@@ -125,18 +113,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "local-payment",
     "status": "up",
-    "uptime": "1.27%",
-    "uptimeDay": "1.27%",
-    "uptimeWeek": "1.27%",
-    "uptimeMonth": "1.27%",
-    "uptimeYear": "1.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 52,
     "timeDay": 52,
     "timeWeek": 52,
     "timeMonth": 52,
     "timeYear": 52,
-    "dailyMinutesDown": {
-      "2022-10-31": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
