@@ -4,9 +4,9 @@
     "url": "$MOVII_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moviired",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 144,
     "timeMonth": 144,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-05": 0
+    }
   },
   {
     "name": "Sistarbanc",
