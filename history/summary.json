@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "97.03%",
-    "time": 153,
-    "timeDay": 53,
-    "timeWeek": 155,
-    "timeMonth": 153,
-    "timeYear": 153,
+    "time": 155,
+    "timeDay": 141,
+    "timeWeek": 164,
+    "timeMonth": 155,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2022-11-06": 820
     }
@@ -24,17 +24,17 @@
     "url": "$SISTARBANC_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sistarbanc",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "98.72%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "98.71%",
     "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 1762,
-    "timeDay": 1898,
-    "timeWeek": 1670,
-    "timeMonth": 1762,
-    "timeYear": 1762,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1785,
+    "timeDay": 1986,
+    "timeWeek": 1728,
+    "timeMonth": 1785,
+    "timeYear": 1785,
     "dailyMinutesDown": {
       "2022-11-19": 19,
       "2022-11-13": 30
@@ -52,7 +52,7 @@
     "uptimeMonth": "97.03%",
     "uptimeYear": "97.03%",
     "time": 54,
-    "timeDay": 44,
+    "timeDay": 50,
     "timeWeek": 57,
     "timeMonth": 54,
     "timeYear": 54,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "97.03%",
-    "time": 87,
-    "timeDay": 31,
-    "timeWeek": 197,
-    "timeMonth": 87,
-    "timeYear": 87,
+    "time": 86,
+    "timeDay": 48,
+    "timeWeek": 180,
+    "timeMonth": 86,
+    "timeYear": 86,
     "dailyMinutesDown": {
       "2022-11-06": 820
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "97.03%",
-    "time": 50,
-    "timeDay": 35,
-    "timeWeek": 50,
-    "timeMonth": 50,
-    "timeYear": 50,
+    "time": 51,
+    "timeDay": 46,
+    "timeWeek": 51,
+    "timeMonth": 51,
+    "timeYear": 51,
     "dailyMinutesDown": {
       "2022-11-06": 820
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "97.03%",
-    "time": 45,
-    "timeDay": 32,
-    "timeWeek": 52,
-    "timeMonth": 45,
-    "timeYear": 45,
+    "time": 46,
+    "timeDay": 46,
+    "timeWeek": 53,
+    "timeMonth": 46,
+    "timeYear": 46,
     "dailyMinutesDown": {
       "2022-11-06": 820
     }
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "97.03%",
-    "time": 45,
-    "timeDay": 27,
+    "time": 46,
+    "timeDay": 41,
     "timeWeek": 52,
-    "timeMonth": 45,
-    "timeYear": 45,
+    "timeMonth": 46,
+    "timeYear": 46,
     "dailyMinutesDown": {
       "2022-11-06": 820
     }
