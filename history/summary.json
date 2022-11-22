@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moviired",
     "status": "up",
-    "uptime": "97.33%",
+    "uptime": "97.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "97.33%",
-    "time": 159,
-    "timeDay": 322,
-    "timeWeek": 187,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "97.43%",
+    "time": 164,
+    "timeDay": 323,
+    "timeWeek": 204,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2022-11-06": 820
     }
@@ -25,120 +25,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sistarbanc",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 1850,
-    "timeDay": 2003,
-    "timeWeek": 1956,
-    "timeMonth": 1850,
-    "timeYear": 1850,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1836,
+    "timeDay": 1677,
+    "timeWeek": 1916,
+    "timeMonth": 1836,
+    "timeYear": 1836,
     "dailyMinutesDown": {
       "2022-11-20": 16,
       "2022-11-19": 19,
       "2022-11-13": 30
-    }
-  },
-  {
-    "name": "STP",
-    "url": "$MOVII_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "stp",
-    "status": "up",
-    "uptime": "97.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "97.33%",
-    "time": 55,
-    "timeDay": 110,
-    "timeWeek": 59,
-    "timeMonth": 55,
-    "timeYear": 55,
-    "dailyMinutesDown": {
-      "2022-11-06": 820
-    }
-  },
-  {
-    "name": "Pagadito",
-    "url": "$MOVII_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "pagadito",
-    "status": "up",
-    "uptime": "97.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "97.33%",
-    "time": 84,
-    "timeDay": 97,
-    "timeWeek": 56,
-    "timeMonth": 84,
-    "timeYear": 84,
-    "dailyMinutesDown": {
-      "2022-11-06": 820
-    }
-  },
-  {
-    "name": "Kashio",
-    "url": "$MOVII_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "kashio",
-    "status": "up",
-    "uptime": "97.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "97.33%",
-    "time": 52,
-    "timeDay": 96,
-    "timeWeek": 57,
-    "timeMonth": 52,
-    "timeYear": 52,
-    "dailyMinutesDown": {
-      "2022-11-06": 820
-    }
-  },
-  {
-    "name": "Pago TIC",
-    "url": "$MOVII_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "pago-tic",
-    "status": "up",
-    "uptime": "97.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "97.33%",
-    "time": 47,
-    "timeDay": 96,
-    "timeWeek": 57,
-    "timeMonth": 47,
-    "timeYear": 47,
-    "dailyMinutesDown": {
-      "2022-11-06": 820
-    }
-  },
-  {
-    "name": "Local Payment",
-    "url": "$MOVII_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "local-payment",
-    "status": "up",
-    "uptime": "97.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "97.33%",
-    "time": 47,
-    "timeDay": 95,
-    "timeWeek": 56,
-    "timeMonth": 47,
-    "timeYear": 47,
-    "dailyMinutesDown": {
-      "2022-11-06": 820
     }
   }
 ]
