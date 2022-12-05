@@ -1,7 +1,7 @@
 url: $SISTARBANC_URL
-status: up
-code: 200
-responseTime: 1747
-lastUpdated: 2022-12-04T23:14:23.997Z
+status: down
+code: 503
+responseTime: 22252
+lastUpdated: 2022-12-05T14:13:17.436Z
 startTime: Mon Oct 31 2022 18:42:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
