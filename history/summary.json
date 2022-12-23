@@ -25,7 +25,7 @@
     "url": "$SISTARBANC_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sistarbanc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "95.43%",
     "uptimeWeek": "99.35%",
