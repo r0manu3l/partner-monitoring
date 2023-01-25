@@ -6,9 +6,9 @@
     "slug": "moviired",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 198,
     "timeDay": 76,
@@ -16,7 +16,6 @@
     "timeMonth": 211,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
       "2022-11-29": 40,
       "2022-11-06": 820
     }
@@ -26,9 +25,9 @@
     "url": "$SISTARBANC_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sistarbanc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -38,6 +37,7 @@
     "timeMonth": 1666,
     "timeYear": 2267,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-12-23": 66,
       "2022-11-29": 49,
       "2022-11-28": 2,
