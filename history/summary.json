@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moviired",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 242,
-    "timeDay": 75,
-    "timeWeek": 197,
-    "timeMonth": 160,
-    "timeYear": 255,
+    "timeDay": 85,
+    "timeWeek": 184,
+    "timeMonth": 158,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2024-03-13": 16,
       "2023-11-08": 23,
@@ -33,11 +33,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.82%",
-    "time": 1967,
-    "timeDay": 1174,
-    "timeWeek": 1334,
-    "timeMonth": 2006,
-    "timeYear": 1886,
+    "time": 1965,
+    "timeDay": 1193,
+    "timeWeek": 1320,
+    "timeMonth": 1982,
+    "timeYear": 1884,
     "dailyMinutesDown": {
       "2024-03-14": 18,
       "2024-02-01": 21,
@@ -52,6 +52,26 @@
       "2023-08-02": 99,
       "2023-07-03": 15,
       "2023-07-01": 26
+    }
+  },
+  {
+    "name": "Sistarbanc No existe",
+    "url": "$SISTARBANC_URL1",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "sistarbanc-no-existe",
+    "status": "down",
+    "uptime": "5.66%",
+    "uptimeDay": "5.66%",
+    "uptimeWeek": "5.66%",
+    "uptimeMonth": "5.66%",
+    "uptimeYear": "5.66%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-03-21": 0
     }
   }
 ]
