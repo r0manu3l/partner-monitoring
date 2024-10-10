@@ -1,7 +1,7 @@
 url: $MOVII_URL
-status: down
-code: 503
-responseTime: 343
-lastUpdated: 2024-10-10T04:43:00.648Z
+status: up
+code: 415
+responseTime: 85
+lastUpdated: 2024-10-10T12:49:48.996Z
 startTime: 2022-10-31T18:42:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
