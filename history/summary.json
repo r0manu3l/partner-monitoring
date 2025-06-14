@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moviired",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 251,
-    "timeDay": 75,
-    "timeWeek": 185,
-    "timeMonth": 164,
+    "time": 252,
+    "timeDay": 290,
+    "timeWeek": 172,
+    "timeMonth": 170,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2024-11-30": 61,
@@ -34,11 +34,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.85%",
-    "time": 2051,
-    "timeDay": 1237,
-    "timeWeek": 3969,
-    "timeMonth": 2114,
-    "timeYear": 2166,
+    "time": 2052,
+    "timeDay": 1458,
+    "timeWeek": 3916,
+    "timeMonth": 2129,
+    "timeYear": 2167,
     "dailyMinutesDown": {
       "2025-06-09": 17,
       "2025-04-25": 20,
@@ -53,8 +53,7 @@
       "2024-09-13": 29,
       "2024-09-04": 16,
       "2024-08-28": 15,
-      "2024-07-02": 34,
-      "2024-06-14": 26
+      "2024-07-02": 34
     }
   }
 ]
