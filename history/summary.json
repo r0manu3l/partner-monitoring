@@ -9,17 +9,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 225,
-    "timeDay": 259,
-    "timeWeek": 176,
+    "timeDay": 264,
+    "timeWeek": 203,
     "timeMonth": 188,
-    "timeYear": 165,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2025-11-05": 18,
       "2025-09-24": 22,
-      "2025-07-21": 23,
-      "2024-11-30": 61
+      "2025-07-21": 23
     }
   },
   {
@@ -29,15 +28,15 @@
     "slug": "sistarbanc",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "97.23%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.84%",
     "time": 2072,
-    "timeDay": 3743,
-    "timeWeek": 2568,
-    "timeMonth": 2246,
-    "timeYear": 1960,
+    "timeDay": 1740,
+    "timeWeek": 2569,
+    "timeMonth": 2237,
+    "timeYear": 1961,
     "dailyMinutesDown": {
       "2025-11-28": 39,
       "2025-11-17": 36,
