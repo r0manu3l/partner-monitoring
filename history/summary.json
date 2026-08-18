@@ -27,16 +27,16 @@
     "url": "$SISTARBANC_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sistarbanc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 1790,
-    "timeDay": 1670,
-    "timeWeek": 1234,
-    "timeMonth": 1416,
+    "uptimeDay": "91.27%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.88%",
+    "time": 1791,
+    "timeDay": 1572,
+    "timeWeek": 1264,
+    "timeMonth": 1418,
     "timeYear": 1693,
     "dailyMinutesDown": {
       "2025-08-21": 50,
@@ -47,7 +47,7 @@
       "2026-02-17": 106,
       "2026-04-29": 90,
       "2026-07-17": 131,
-      "2026-08-18": 0
+      "2026-08-18": 126
     }
   }
 ]
